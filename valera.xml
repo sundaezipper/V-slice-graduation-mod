@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="valera.png" width="1889" height="3996">
+    <!-- angy frames -->
+    <SubTexture name="angy0000" x="0" y="0" width="404" height="818"/>
+    <SubTexture name="angy0001" x="0" y="818" width="402" height="814"/>
+    <SubTexture name="angy0002" x="0" y="1632" width="394" height="804"/>
+    <SubTexture name="angy0003" x="0" y="2436" width="490" height="782"/>
+    <SubTexture name="angy0004" x="394" y="1632" width="494" height="779"/>
+    <SubTexture name="angy0005" x="402" y="818" width="492" height="779"/>
+    <SubTexture name="angy0006" x="888" y="0" width="488" height="778"/>
+    <SubTexture name="angy0007" x="404" y="0" width="471" height="749"/>
+    
+    <!-- down frames -->
+    <SubTexture name="down0000" x="0" y="3218" width="486" height="778"/>
+    <SubTexture name="down0001" x="486" y="3218" width="498" height="776"/>
+    <SubTexture name="down0002" x="1392" y="1526" width="497" height="709"/>
+    <SubTexture name="down0003" x="1356" y="778" width="465" height="748"/>
+    
+    <!-- hey frames (same as idle) -->
+    <SubTexture name="hey0000" x="402" y="818" width="492" height="779"/>
+    <SubTexture name="hey0001" x="888" y="0" width="488" height="778"/>
+    <SubTexture name="hey0002" x="404" y="0" width="471" height="749"/>
+    
+    <!-- idle frames -->
+    <SubTexture name="idle0000" x="402" y="818" width="492" height="779"/>
+    <SubTexture name="idle0001" x="888" y="0" width="488" height="778"/>
+    <SubTexture name="idle0002" x="404" y="0" width="471" height="749"/>
+    
+    <!-- left frames -->
+    <SubTexture name="left0000" x="402" y="818" width="492" height="779"/>
+    <SubTexture name="left0001" x="888" y="0" width="488" height="778"/>
+    
+    <!-- right frames -->
+    <SubTexture name="right0000" x="404" y="0" width="471" height="749"/>
+    <SubTexture name="right0001" x="1356" y="778" width="465" height="748"/>
+    
+    <!-- up frames -->
+    <SubTexture name="up0000" x="1544" y="1722" width="508" height="846"/>
+    <SubTexture name="up0001" x="2052" y="1722" width="508" height="846"/>
+</TextureAtlas>
